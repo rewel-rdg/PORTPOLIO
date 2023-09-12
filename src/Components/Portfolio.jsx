@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "FARM PLANNING PORTAL",
     description :
-      "AZURE Portal helps the user to find out New Technology, Technics, News related to the farm business also it provide platform to Order Some Plant, Vegetables, Fruits from one Portal.",
+      "AZURE Portal helps the user to find out New Technology, Technics, News related to the farm business also it provide platform to Order Some Plant, Vegetables, Fruits from one Portal. AZURE APP SERVICE",
     url: "https://github.com/rewel-rdg/AZURE-WEB",
   },
   {
