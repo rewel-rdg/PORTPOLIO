@@ -28,10 +28,10 @@ const siteProps = {
   title: "Cloud Enthusiast & Data Science",
   email: "rohit.gend@studentambassadors.com",
   gitHub: "rewel-rdg",
-  instagram: "https://www.instagram.com/rohit_sdg",
-  linkedIn: "https://www.linkedin.com/in/rohit-gend",
+  instagram: "rohit_sdg",
+  linkedIn: "rohit-gend",
   medium: "",
-  twitter: "https://www.twitter.com/rohit_gend_",
+  twitter: "rohit_gend_",
   youTube: "Code",
 };
 
